@@ -17,6 +17,7 @@
 		026AD4572111834000CE6864 /* DrawCircletView.m in Sources */ = {isa = PBXBuildFile; fileRef = 026AD4562111834000CE6864 /* DrawCircletView.m */; };
 		026AD45A21118A0900CE6864 /* DrawLinesView.m in Sources */ = {isa = PBXBuildFile; fileRef = 026AD45921118A0900CE6864 /* DrawLinesView.m */; };
 		026AD45D2111921E00CE6864 /* LineView.m in Sources */ = {isa = PBXBuildFile; fileRef = 026AD45C2111921E00CE6864 /* LineView.m */; };
+		C60AA483234208D500E3A3BA /* StoreProcessView.m in Sources */ = {isa = PBXBuildFile; fileRef = C60AA481234208D500E3A3BA /* StoreProcessView.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -38,6 +39,8 @@
 		026AD45921118A0900CE6864 /* DrawLinesView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DrawLinesView.m; sourceTree = "<group>"; };
 		026AD45B2111921E00CE6864 /* LineView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LineView.h; sourceTree = "<group>"; };
 		026AD45C2111921E00CE6864 /* LineView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LineView.m; sourceTree = "<group>"; };
+		C60AA481234208D500E3A3BA /* StoreProcessView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = StoreProcessView.m; sourceTree = "<group>"; };
+		C60AA482234208D500E3A3BA /* StoreProcessView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = StoreProcessView.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,6 +85,8 @@
 				026AD45921118A0900CE6864 /* DrawLinesView.m */,
 				026AD45B2111921E00CE6864 /* LineView.h */,
 				026AD45C2111921E00CE6864 /* LineView.m */,
+				C60AA482234208D500E3A3BA /* StoreProcessView.h */,
+				C60AA481234208D500E3A3BA /* StoreProcessView.m */,
 				026AD4422111674200CE6864 /* Main.storyboard */,
 				026AD4452111674B00CE6864 /* Assets.xcassets */,
 				026AD4472111674B00CE6864 /* LaunchScreen.storyboard */,
@@ -165,6 +170,7 @@
 				026AD44C2111674B00CE6864 /* main.m in Sources */,
 				026AD45D2111921E00CE6864 /* LineView.m in Sources */,
 				026AD45A21118A0900CE6864 /* DrawLinesView.m in Sources */,
+				C60AA483234208D500E3A3BA /* StoreProcessView.m in Sources */,
 				026AD45421117EA600CE6864 /* DrawLineView.m in Sources */,
 				026AD4572111834000CE6864 /* DrawCircletView.m in Sources */,
 				026AD43E2111674200CE6864 /* AppDelegate.m in Sources */,
